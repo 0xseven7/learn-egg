@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-useragent": "^2.0.0"
+  },
+  "scripts": {
+    "dev": "node index.js"
+  }
+}

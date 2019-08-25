@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "globby": "^10.0.1"
+  }
+}
