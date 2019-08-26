@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "globby": "^10.0.1"
+    "globby": "^10.0.1",
+    "koa": "^2.8.1"
+  },
+  "scripts": {
+    "dev": "node index.js"
   }
 }
